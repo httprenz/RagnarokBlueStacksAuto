@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ragnarok Auto</string>
+    <string name="accessibility_desc">Allows Ragnarok Auto to tap, swipe and inspect the game screen while automation is enabled.</string>
+</resources>
